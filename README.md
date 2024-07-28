@@ -14,8 +14,8 @@
 
 ## 📊 GitHub Statistics
 ![Adile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adileakklc&show_icons=true&theme=radical)
-![Adile's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adile&theme=radical)
-![Adile's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adile&layout=compact&theme=radical)
+![Adile's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adileakklc&theme=radical)
+![Adile's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adileakklc&layout=compact&theme=radical)
 
 ## 👀 Profile Views
 
