@@ -19,4 +19,4 @@
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=adileakklc&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=adileakklc&color=pinkviolet)
