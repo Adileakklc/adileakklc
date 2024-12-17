@@ -5,7 +5,6 @@
 ## 💬 Areas of Interest
 - Python programming
 - Data science and machine learning
-- Deep learning techniques
 
 ## 📫 Contact Me
 - 📧 Email: adileakklc@gmail.com
